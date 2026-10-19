@@ -51,16 +51,12 @@ ScholarMatch is an intelligent scholarship discovery platform designed to help s
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Supabase
 - **Focus:** Accessible scholarship discovery with a clean, user-friendly experience
 
-## GitHub Analytics & Activity
+## GitHub Analytics
 
 <div align='center'>
-  <img src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mudasirrashid&theme=tokyonight' alt='GitHub Activity Summary' />
-</div>
-
-<br />
-
-<div align='center'>
-  <img src='https://github-readme-activity-graph.vercel.app/graph?username=mudasirrashid&theme=react-dark&hide_border=true' alt='Contribution Graph' />
+  <img src='https://github-readme-stats.vercel.app/api?username=mudasirrashid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true' alt='GitHub Stats' />
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirrashid&layout=compact&theme=tokyonight&hide_border=true' alt='Top Languages' />
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=mudasirrashid&theme=tokyonight&hide_border=true' alt='GitHub Streak' />
 </div>
 
 - [LinkedIn](https://www.linkedin.com/in/mudasirrashid)
