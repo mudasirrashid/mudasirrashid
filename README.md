@@ -54,7 +54,7 @@ ScholarMatch is an intelligent scholarship discovery platform designed to help s
 ## GitHub Analytics
 
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=mudasirrashid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true' alt='GitHub Stats' />
+  <img src='https://github-readme-stats.vercel.app/api?username=mudasirrashid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true' alt='GitHub Stats' />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=mudasirrashid&layout=compact&theme=tokyonight&hide_border=true' alt='Top Languages' />
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=mudasirrashid&theme=tokyonight&hide_border=true' alt='GitHub Streak' />
 </div>
