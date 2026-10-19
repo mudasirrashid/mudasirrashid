@@ -41,7 +41,7 @@ I'm a BS Artificial Intelligence student at The Islamia University of Bahawalpur
 
 ## Featured Projects
 
-### ScholarMatch
+### ScholarMatch.me
 **Intelligent Scholarship Discovery Platform**
 
 ScholarMatch is an intelligent scholarship discovery platform designed to help students explore opportunities, understand eligibility, and prepare for applications. Built with Next.js and TypeScript, it focuses on clarity, usability, and a structured approach to finding relevant scholarships.
